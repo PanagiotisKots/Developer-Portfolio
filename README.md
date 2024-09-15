@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website template built using **HTML**
 
 ## 🌟 Demo
 
-You can view a live demo of the portfolio here: [**Live Demo**](https://<your-username>.github.io/<your-repository-name>/)
+You can view a live demo of the portfolio here: [**Live Demo**](https://panagiotiskots.github.io/Portfolio-Website/)
 
 ## ✨ Features
 
@@ -26,32 +26,6 @@ You can view a live demo of the portfolio here: [**Live Demo**](https://<your-us
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | For interactivity and dynamic functionality.      |
 | ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white) | For icons.                                        |
 | ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white) | For typography.                                   |
-
-
-Getting Started
-Prerequisites
-
-To run the project locally, you need:
-
-    A modern web browser (Chrome, Firefox, Edge, etc.).
-    A text editor (e.g., VS Code, Sublime Text) for customization.
-
-Installation
-
-    Clone the repository:
-
-
-
-git clone https://github.com/<your-username>/<your-repository-name>.git
-
-Navigate into the project directory:
-
-
-
-cd <your-repository-name>
-
-Open index.html in your browser: You can simply double-click the index.html file to open it in your web browser, or run a local server using tools like Live Server in VS Code.
-
 
 
 ## 🛠️ Customization
