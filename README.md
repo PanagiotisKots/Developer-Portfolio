@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website template built using **HTML**
 
 ## 🌟 Demo
 
-You can view a live demo of the portfolio here: [**Live Demo**](https://panagiotiskots.github.io/Portfolio-Website/)
+You can view a live demo of the portfolio here: [**Live Demo**](https://panagiotiskots.github.io/Personal-Portfolio-Website/)
 
 ## ✨ Features
 
