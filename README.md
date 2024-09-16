@@ -25,6 +25,15 @@ You can view a live demo of the portfolio here: [**Live Demo**](https://panagiot
 - 📧 **Contact Form**: Users can contact you through a built-in contact form (requires backend setup to handle form submissions).
 
 
+
+<div align = "center">
+
+  <img src = "img/img2.jpg">
+
+  </div>
+
+
+  
 ## 🛠️ Technologies Used
 
 | Technology     | Description                                                    |
@@ -36,6 +45,14 @@ You can view a live demo of the portfolio here: [**Live Demo**](https://panagiot
 | ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white) | For typography.                                   |
 
 
+
+<div align = "center">
+
+  <img src = "img/img3.jpg">
+
+  </div>
+
+  
 ## 🛠️ Customization
 
 To customize the template:
@@ -62,14 +79,46 @@ Feel free to submit pull requests or open issues if you find any bugs or want to
 
 ---
 
+<div align = "center">
+
+  <img src = "img/img4.jpg">
+
+  </div>
+
+
+---
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
+<div align = "center">
+
+  <img src = "img/img5.jpg">
+
+  </div>
+
+
+  ---
+
+
 ## 🙏 Acknowledgments
 
 - 🎨 Icons by [Font Awesome](https://fontawesome.com/).
 - ✍️ Fonts by [Google Fonts](https://fonts.google.com/).
 
+
+
+<div align = "center">
+
+  <img src = "img/img6.jpg">
+
+  </div>
+
+
+<div align = "center">
+
+  <img src = "img/img7.jpg">
+
+  </div>
