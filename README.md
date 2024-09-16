@@ -1,5 +1,13 @@
+<div align = "center">
+
+
 # Personal Portfolio Website Template 🌐
 
+
+
+  <img src = "img/img1.jpg">
+
+  </div>
 A modern and responsive personal portfolio website template built using **HTML**, **CSS**, and **JavaScript**. This template is perfect for showcasing your projects, skills, and experience as a web developer, programmer, or tech professional.
 
 ## 🌟 Demo
